@@ -27,3 +27,5 @@ Repository dedicated to a collection of resources and helping material for Urdu 
  * [Urdu Dependency Parser: A Data-Driven approach](https://pdfs.semanticscholar.org/9ed2/3f6c65a73a8c5177acd200931f2879c915b6.pdf)
  * [Offline Urdu Nastaliq OCR for Printed Text using Analytical Approach](http://www.cle.org.pk/Publication/theses/2013/danish-thesis.pdf)
  * [Urdu Word Segmentation using Conditional Random Fields (CRFs)](http://aclweb.org/anthology/C18-1217)
+ * [Sequence to sequence networks for Roman-Urdu to Urdu transliteration](https://www.academia.edu/35980569/Sequence_to_Sequence_Networks_for_Roman-Urdu_to_Urdu_Transliteration)
+* [Neural Encoder-Decoder based Urdu Conversational Agent](https://ieeexplore.ieee.org/document/8796688)
